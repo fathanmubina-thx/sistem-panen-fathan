@@ -1,10 +1,1 @@
-# sistem-panen-fathan
-Tugas Terstruktur BAB IV Nomor 4
-def hitung_pendapatan(data_penjualan):
-    """
-    Menghitung total seluruh pendapatan dari daftar transaksi.
-    """
-    total_pendapatan = 0
-    for item in data_penjualan:
-        total_pendapatan += item["harga"] * item["jumlah"]
-    return total_pendapatan
+
